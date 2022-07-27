@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Partidos</string>
     <string name="Fecha1">Argentina VS Arabia Saudita:\n 22-11-2022 07:00 hs</string>
-    <string name="Fecha2">Argentina VS México:\n 26-11-2022 16:00 hs</string>
-    <string name="Fecha3">Polonia VS Argentina:\n 30-11-2022 16:00 hs</string>
+    <string name="Fecha2">México VS Polonia:\n 22-11-2022 13:00 hs</string>
+    <string name="Fecha3">Polonia VS Arabia Saudita:\n 26-11-2022 10:00 hs</string>
+    <string name="Fecha4">Argentina VS México:\n 26-11-2022 16:00 hs</string>
+    <string name="Fecha5">Polonia VS Argentina:\n 30-11-2022 16:00 hs</string>
+    <string name="Fecha6">Arabia Saudita VS México:\n 30-11-2022 16:00 hs</string>
 </resources>
